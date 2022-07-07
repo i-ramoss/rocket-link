@@ -1,14 +1,14 @@
 ## :interrobang: Do que se trata esse projeto?
 
-O rocket-link é um clone do LinkTree, uma plataforma onde usuários podem disponibilizar vários links para redes sociais, blogs, sites-comerciais, portfólios, etc. em um só lugar!
+O RocketLink é um clone do LinkTree, uma plataforma onde usuários podem disponibilizar vários links para redes sociais, blogs, sites-comerciais, portfólios, etc. em um só lugar!
 
 ## :rocket: Tecnologias
 
-Esse é um projeto bem simples, utilizando apenas HTML e CSS no seu desenvolvimento.
+Esse é um projeto bem simples, utilizando apenas HTML e CSS como tecnologia.
 
 ## :confetti_ball: Preview:
 
-<img src=".assets/rocket-link-screenshot.png" alt="Uma foto de Ian como imagem de perfil e uma lista de vários links relacionados à ele." height="450px" />
+<img src="./assets/rocket-link-screenshot.png" alt="Uma foto de Ian como imagem de perfil e uma lista de vários links relacionados à ele." height="400px" />
 
 ## :construction_worker: Como contribuir?
 
